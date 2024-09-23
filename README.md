@@ -1,2 +1,2 @@
-# Gujarati-Handwritten-Character-Recognition-from-Text-Images
-generation of the dataset for the gujrati language
+# Gujrati-learning-application
+ learn Gujarati alphabets and numbers and then practice them on a writing pad
